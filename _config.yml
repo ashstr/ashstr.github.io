@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  name             : "Ashraf Abd Elsatar"
+  avatar           : "https://avatars1.githubusercontent.com/u/3127677?v=3&s=466"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Cairo,Egypt"
+  email            : "ashraf.elkoly@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "ashstr.github.com"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://eg.linkedin.com/in/ashrafadbelsatar"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
